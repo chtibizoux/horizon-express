@@ -1,4 +1,4 @@
-import users from "../data/users.json";
+import users from "./data/users.json";
 import type { Config, Context } from "@netlify/functions";
 
 export default async (req: Request, context: Context) => {

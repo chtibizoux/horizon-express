@@ -1,10 +1,10 @@
 import type { Config, Context } from "@netlify/functions";
 
-import schedules from "../data/schedules.json";
-import travels from "../data/travels.json";
-import stations from "../data/stations.json";
-import cities from "../data/cities.json";
-import { getStation } from "../stations.js";
+import schedules from "./data/schedules.json";
+import travels from "./data/travels.json";
+import stations from "./data/stations.json";
+import cities from "./data/cities.json";
+import { getStation } from "./stations.js";
 
 export function getSchedule({
   travel: travelId,

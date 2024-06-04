@@ -1,6 +1,6 @@
 import type { Config, Context } from "@netlify/functions";
 
-import users from "../data/users.json";
+import users from "./data/users.json";
 
 export default async (req: Request, context: Context) => {
   if (req.method !== "GET") {

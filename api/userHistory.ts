@@ -1,9 +1,9 @@
 import type { Config, Context } from "@netlify/functions";
 
-import users from "../data/users.json";
-import tickets from "../data/tickets.json";
-import schedules from "../data/schedules.json";
-import { getSchedule } from "../schedules/index.js";
+import users from "./data/users.json";
+import tickets from "./data/tickets.json";
+import schedules from "./data/schedules.json";
+import { getSchedule } from "./schedules.js";
 
 export default async (req: Request, context: Context) => {
   if (req.method !== "GET") {
