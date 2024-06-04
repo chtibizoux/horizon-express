@@ -1,0 +1,7 @@
+{
+  "name": "train-site",
+  "type": "module",
+  "dependencies": {
+    "@netlify/functions": "^2.7.0"
+  }
+}

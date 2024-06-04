@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Valence"
+  },
+  {
+    "id": 2,
+    "name": "Lyon"
+  },
+  {
+    "id": 3,
+    "name": "Paris"
+  },
+  {
+    "id": 4,
+    "name": "Marseille"
+  },
+  {
+    "id": 5,
+    "name": "Lille"
+  },
+  {
+    "id": 6,
+    "name": "Strasbourg"
+  },
+  {
+    "id": 7,
+    "name": "Rennes"
+  },
+  {
+    "id": 8,
+    "name": "Toulouse"
+  },
+  {
+    "id": 9,
+    "name": "Grenoble"
+  },
+  {
+    "id": 10,
+    "name": "Bordeaux"
+  }
+]

@@ -1,0 +1,53 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  box-sizing: border-box;
+  max-width: 700px;
+  text-align: center;
+  width: 100%;
+  padding: 0 14px;
+  margin-top: 3rem;
+}
+
+.line {
+  display: flex;
+  justify-content: stretch;
+  gap: 10px;
+}
+
+.input-container {
+  margin: 0.5rem 0;
+  width: 100%;
+}
+
+#success {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  z-index: 2;
+}
+
+#success img {
+  height: 50%;
+}
+
+a.primary-button {
+  text-decoration: none;
+}
+
+button.primary-button {
+  max-width: 20rem;
+  width: 100%;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,9 @@
+/.netlify/
+
+/node_modules/
+
+deno.lock
+package-lock.json
+
+/.idea/
+/.vscode/

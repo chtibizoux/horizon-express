@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "type": "TER",
+    "duration": 7,
+    "from": 1,
+    "to": 2
+  },
+  {
+    "id": 2,
+    "type": "TER",
+    "duration": 7,
+    "from": 2,
+    "to": 1
+  },
+  {
+    "id": 3,
+    "type": "TER",
+    "duration": 110,
+    "from": 1,
+    "to": 4
+  },
+  {
+    "id": 5,
+    "type": "TER",
+    "duration": 100,
+    "from": 1,
+    "to": 5
+  },
+  {
+    "id": 11,
+    "type": "TGV",
+    "duration": 45,
+    "from": 2,
+    "to": 4
+  },
+  {
+    "id": 13,
+    "type": "TGV",
+    "duration": 125,
+    "from": 2,
+    "to": 10
+  },
+  {
+    "id": 7,
+    "type": "TER",
+    "duration": 150,
+    "from": 1,
+    "to": 12
+  },
+  {
+    "id": 15,
+    "type": "TGV",
+    "duration": 100,
+    "from": 2,
+    "to": 12
+  },
+  {
+    "id": 17,
+    "type": "TGV",
+    "duration": 240,
+    "from": 2,
+    "to": 16
+  },
+  {
+    "id": 9,
+    "type": "TER",
+    "duration": 125,
+    "from": 1,
+    "to": 23
+  },
+  {
+    "id": 19,
+    "type": "TGV",
+    "duration": 90,
+    "from": 2,
+    "to": 23
+  },
+  {
+    "id": 4,
+    "type": "TER",
+    "duration": 110,
+    "from": 4,
+    "to": 1
+  },
+  {
+    "id": 6,
+    "type": "TER",
+    "duration": 100,
+    "from": 5,
+    "to": 1
+  },
+  {
+    "id": 12,
+    "type": "TGV",
+    "duration": 45,
+    "from": 4,
+    "to": 2
+  },
+  {
+    "id": 21,
+    "type": "TER",
+    "duration": 5,
+    "from": 4,
+    "to": 5
+  },
+  {
+    "id": 22,
+    "type": "TER",
+    "duration": 5,
+    "from": 5,
+    "to": 4
+  },
+  {
+    "id": 23,
+    "type": "TGV",
+    "duration": 90,
+    "from": 4,
+    "to": 10
+  },
+  {
+    "id": 31,
+    "type": "TER",
+    "duration": 150,
+    "from": 5,
+    "to": 10
+  },
+  {
+    "id": 29,
+    "type": "TGV",
+    "duration": 140,
+    "from": 4,
+    "to": 12
+  },
+  {
+    "id": 33,
+    "type": "TER",
+    "duration": 210,
+    "from": 5,
+    "to": 12
+  },
+  {
+    "id": 25,
+    "type": "TGV",
+    "duration": 180,
+    "from": 4,
+    "to": 16
+  },
+  {
+    "id": 35,
+    "type": "TER",
+    "duration": 300,
+    "from": 5,
+    "to": 17
+  },
+  {
+    "id": 27,
+    "type": "TGV",
+    "duration": 100,
+    "from": 4,
+    "to": 23
+  },
+  {
+    "id": 37,
+    "type": "TER",
+    "duration": 140,
+    "from": 5,
+    "to": 23
+  },
+  {
+    "id": 14,
+    "type": "TGV",
+    "duration": 125,
+    "from": 10,
+    "to": 2
+  },
+  {
+    "id": 24,
+    "type": "TGV",
+    "duration": 90,
+    "from": 10,
+    "to": 4
+  },
+  {
+    "id": 32,
+    "type": "TGV",
+    "duration": 150,
+    "from": 10,
+    "to": 5
+  },
+  {
+    "id": 49,
+    "type": "TGV",
+    "duration": 180,
+    "from": 10,
+    "to": 12
+  },
+  {
+    "id": 41,
+    "type": "TGV",
+    "duration": 66,
+    "from": 8,
+    "to": 16
+  },
+  {
+    "id": 43,
+    "type": "TER",
+    "duration": 140,
+    "from": 8,
+    "to": 17
+  },
+  {
+    "id": 39,
+    "type": "TGV",
+    "duration": 120,
+    "from": 7,
+    "to": 18
+  },
+  {
+    "id": 45,
+    "type": "TGV",
+    "duration": 90,
+    "from": 9,
+    "to": 19
+  },
+  {
+    "id": 47,
+    "type": "TER",
+    "duration": 180,
+    "from": 9,
+    "to": 19
+  },
+  {
+    "id": 51,
+    "type": "TGV",
+    "duration": 140,
+    "from": 11,
+    "to": 24
+  },
+  {
+    "id": 8,
+    "type": "TER",
+    "duration": 150,
+    "from": 12,
+    "to": 1
+  },
+  {
+    "id": 16,
+    "type": "TGV",
+    "duration": 100,
+    "from": 12,
+    "to": 2
+  },
+  {
+    "id": 30,
+    "type": "TGV",
+    "duration": 140,
+    "from": 12,
+    "to": 4
+  },
+  {
+    "id": 34,
+    "type": "TER",
+    "duration": 210,
+    "from": 12,
+    "to": 5
+  },
+  {
+    "id": 50,
+    "type": "TGV",
+    "duration": 180,
+    "from": 12,
+    "to": 10
+  },
+  {
+    "id": 53,
+    "type": "TGV",
+    "duration": 150,
+    "from": 12,
+    "to": 20
+  },
+  {
+    "id": 55,
+    "type": "TER",
+    "duration": 210,
+    "from": 12,
+    "to": 20
+  },
+  {
+    "id": 18,
+    "type": "TGV",
+    "duration": 240,
+    "from": 16,
+    "to": 2
+  },
+  {
+    "id": 26,
+    "type": "TGV",
+    "duration": 180,
+    "from": 16,
+    "to": 4
+  },
+  {
+    "id": 36,
+    "type": "TER",
+    "duration": 300,
+    "from": 17,
+    "to": 5
+  },
+  {
+    "id": 42,
+    "type": "TGV",
+    "duration": 66,
+    "from": 16,
+    "to": 8
+  },
+  {
+    "id": 44,
+    "type": "TER",
+    "duration": 140,
+    "from": 17,
+    "to": 8
+  },
+  {
+    "id": 40,
+    "type": "TGV",
+    "duration": 120,
+    "from": 18,
+    "to": 7
+  },
+  {
+    "id": 46,
+    "type": "TGV",
+    "duration": 90,
+    "from": 19,
+    "to": 9
+  },
+  {
+    "id": 48,
+    "type": "TER",
+    "duration": 180,
+    "from": 19,
+    "to": 9
+  },
+  {
+    "id": 57,
+    "type": "TER",
+    "duration": 240,
+    "from": 19,
+    "to": 24
+  },
+  {
+    "id": 54,
+    "type": "TGV",
+    "duration": 150,
+    "from": 20,
+    "to": 12
+  },
+  {
+    "id": 56,
+    "type": "TER",
+    "duration": 210,
+    "from": 20,
+    "to": 12
+  },
+  {
+    "id": 60,
+    "type": "TGV",
+    "duration": 45,
+    "from": 20,
+    "to": 24
+  },
+  {
+    "id": 62,
+    "type": "TER",
+    "duration": 110,
+    "from": 20,
+    "to": 24
+  },
+  {
+    "id": 10,
+    "type": "TER",
+    "duration": 125,
+    "from": 23,
+    "to": 1
+  },
+  {
+    "id": 20,
+    "type": "TGV",
+    "duration": 90,
+    "from": 23,
+    "to": 2
+  },
+  {
+    "id": 28,
+    "type": "TGV",
+    "duration": 100,
+    "from": 23,
+    "to": 4
+  },
+  {
+    "id": 38,
+    "type": "TER",
+    "duration": 140,
+    "from": 23,
+    "to": 5
+  },
+  {
+    "id": 52,
+    "type": "TGV",
+    "duration": 140,
+    "from": 24,
+    "to": 11
+  },
+  {
+    "id": 58,
+    "type": "TER",
+    "duration": 240,
+    "from": 24,
+    "to": 19
+  },
+  {
+    "id": 59,
+    "type": "TGV",
+    "duration": 45,
+    "from": 24,
+    "to": 20
+  },
+  {
+    "id": 61,
+    "type": "TER",
+    "duration": 110,
+    "from": 24,
+    "to": 20
+  }
+]

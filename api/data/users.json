@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "surname": "Étégal",
+    "firstname": "Sam",
+    "mail": "sam.etegal@test.com",
+    "address": {
+      "number": 256,
+      "street": "rue de la Marne",
+      "city": "Valence",
+      "postcode": 26000
+    }
+  },
+  {
+    "id": 2,
+    "surname": "Opikeur",
+    "firstname": "Marthe",
+    "mail": "marthe.opikeur@test.com",
+    "address": {
+      "number": 18,
+      "street": "avenue Charles de Gaulle",
+      "city": "Lyon",
+      "postcode": 69000
+    }
+  },
+  {
+    "id": 3,
+    "surname": "Versaire",
+    "firstname": "Annie",
+    "mail": "annie.versaire@test.com",
+    "address": {
+      "number": 587,
+      "street": "chemin de la Gaudinière",
+      "city": "Villeperdue",
+      "postcode": 37260
+    }
+  },
+  {
+    "id": 4,
+    "surname": "Gator",
+    "firstname": "Ali",
+    "mail": "ali.gator@test.com",
+    "address": {
+      "number": 18,
+      "street": "impasse de l'orangerie",
+      "city": "Bélâbre",
+      "postcode": 36370
+    }
+  },
+  {
+    "id": 5,
+    "surname": "Bokai",
+    "firstname": "Bill",
+    "mail": "bill.bokai@test.com",
+    "address": {
+      "number": 1845,
+      "street": "rue Katharinenburg",
+      "city": "Drachenbronn-Brilenbach",
+      "postcode": 67160
+    }
+  },
+  {
+    "id": 6,
+    "surname": "Auchon",
+    "firstname": "Paul",
+    "mail": "paul.auchon@test.com",
+    "address": {
+      "number": 2854,
+      "street": "chemin du Meulewalle",
+      "city": "Godewaersveld",
+      "postcode": 59270
+    }
+  },
+  {
+    "id": 7,
+    "surname": "Gaullo",
+    "firstname": "Terry",
+    "mail": "terry.gaullo@test.com",
+    "address": {
+      "number": 52,
+      "street": "rue de Kerjolys",
+      "city": "Ploudalmezeau",
+      "postcode": 29830
+    }
+  }
+]
