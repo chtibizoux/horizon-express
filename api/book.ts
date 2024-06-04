@@ -27,7 +27,7 @@ export default async (req: Request, context: Context) => {
   }
 
   if (info.user) {
-    const user = users.find((user) => info.user === user.id);
+    const user = users.find((user) => Number(info.user) === user.id);
     if (!user) {
       return new Response("User not found", { status: 404 });
     }
