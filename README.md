@@ -8,6 +8,28 @@ Ce site a été réalisé lors de ma première année de BUT, au cours de nos TP
 
  Réalisé avec l'aide de Damien Bloise
  
+### Trajets utilisables
+
+* Valence &harr; Valence
+* Valence &harr; Lyon
+* Valence &harr; Paris
+* Valence &harr; Marseille
+* Valence &harr; Lille
+* Valence &harr; Grenoble
+* Lyon &harr; Lyon
+* Lyon &harr; Paris
+* Lyon &harr; Marseille
+* Lyon &harr; Lille
+* Lyon &harr; Grenoble
+* Paris &harr; Marseille
+* Paris &harr; Lille
+* Paris &harr; Strasbourg
+* Paris &harr; Rennes
+* Paris &harr; Bordeaux
+* Marseille &harr; Toulouse
+* Rennes &harr; Bordeaux
+* Toulouse &harr; Bordeaux
+
 ### Jours utilisables
 
 Du 28/03/2024 au 16/04/2024
